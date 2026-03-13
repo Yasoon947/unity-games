@@ -1,0 +1,25 @@
+# Unity 通用 .gitignore 配置
+# 缓存目录
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+# 构建输出目录
+Build/
+Builds/
+# 包管理缓存
+Packages/packages-lock.json
+# 本地配置（每个人的编辑器设置不同）
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+# 其他临时文件
+.DS_Store
+*.pidb.meta
