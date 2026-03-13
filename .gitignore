@@ -6,8 +6,8 @@ Obj/
 Logs/
 UserSettings/
 # 构建输出目录
-Build/
-Builds/
+#Build/
+#Builds/
 # 包管理缓存
 Packages/packages-lock.json
 # 本地配置（每个人的编辑器设置不同）
