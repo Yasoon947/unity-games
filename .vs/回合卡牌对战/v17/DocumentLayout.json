@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\systems\\cardsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\systems\\cardsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\systems\\enemysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\systems\\enemysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\systems\\herosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\systems\\herosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|d:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\systems\\burnsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\systems\\burnsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BurnSystem.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\BurnSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Systems\\BurnSystem.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\BurnSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\Systems\\BurnSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T14:43:29.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HeroSystem.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\HeroSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Systems\\HeroSystem.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\HeroSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\Systems\\HeroSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:04:39.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemySystem.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\EnemySystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Systems\\EnemySystem.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\EnemySystem.cs",
+              "RelativeToolTip": "Assets\\Script\\Systems\\EnemySystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:22:58.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardSystem.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\CardSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Systems\\CardSystem.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\CardSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\Systems\\CardSystem.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T03:45:21.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

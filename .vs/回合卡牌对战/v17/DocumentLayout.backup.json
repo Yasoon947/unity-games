@@ -1,0 +1,860 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\views\\combatantview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\views\\combatantview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\ui\\statuseffectsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\statuseffectsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\ui\\statuseffectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\statuseffectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\systems\\statuseffectsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\systems\\statuseffectsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\systems\\damagesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\systems\\damagesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\gameactions\\addstatuseffectga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameactions\\addstatuseffectga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|d:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\effects\\addstatuseffecteffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\effects\\addstatuseffecteffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|d:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\targetmodes\\herotm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\targetmodes\\herotm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\enums\\statuseffecttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enums\\statuseffecttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\models\\perk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\models\\perk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\ui\\perkui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\perkui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\systems\\perksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\systems\\perksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\gameactions\\playcardga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameactions\\playcardga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\data\\perkdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\data\\perkdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\ui\\perksui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\perksui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\systems\\matchsetupsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\systems\\matchsetupsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\models\\targetmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\models\\targetmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\gameactions\\spendmanaga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameactions\\spendmanaga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\gameactions\\refillmanaga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameactions\\refillmanaga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\targetmodes\\randomenemytm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\targetmodes\\randomenemytm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\models\\perkcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\models\\perkcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\gameactions\\performeffectga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameactions\\performeffectga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\perkcondition\\onenemyattackcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\perkcondition\\onenemyattackcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\targetmodes\\notm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\targetmodes\\notm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\general\\util\\mouseutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\general\\util\\mouseutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\systems\\manualtargetsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\systems\\manualtargetsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\systems\\manasystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\systems\\manasystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\gameactions\\killenemyga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameactions\\killenemyga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\systems\\interactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\systems\\interactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\interfaces\\ihavecaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\interfaces\\ihavecaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\views\\heroview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\views\\heroview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\systems\\herosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\systems\\herosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\data\\herodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\data\\herodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\creators\\enemyviewcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\creators\\enemyviewcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\views\\enemyview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\views\\enemyview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\systems\\enemysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\systems\\enemysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\data\\enemydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\data\\enemydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\views\\enemyboardview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\views\\enemyboardview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\systems\\effectsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\systems\\effectsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\models\\effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\models\\effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\effects\\drawcardeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\effects\\drawcardeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\gameactions\\dealdamagega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameactions\\dealdamagega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\effects\\dealdamageeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\effects\\dealdamageeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\creators\\cardviewcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\creators\\cardviewcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\views\\cardview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\views\\cardview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\systems\\cardsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\systems\\cardsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\data\\carddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\data\\carddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\gameactions\\attackheroga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameactions\\attackheroga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\views\\arrowview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\views\\arrowview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\assets\\script\\targetmodes\\allenemiestm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5344D0-F636-06A0-9E6F-BD58606A2F5F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\targetmodes\\allenemiestm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Models\\AutoTagetEffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Models\\AutoTagetEffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HeroTM.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\TargetModes\\HeroTM.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TargetModes\\HeroTM.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\TargetModes\\HeroTM.cs",
+              "RelativeToolTip": "Assets\\Script\\TargetModes\\HeroTM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:59:23.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddStatusEffectEffect.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Effects\\AddStatusEffectEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Effects\\AddStatusEffectEffect.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Effects\\AddStatusEffectEffect.cs",
+              "RelativeToolTip": "Assets\\Script\\Effects\\AddStatusEffectEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:56:14.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatusEffectSystem.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\StatusEffectSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Systems\\StatusEffectSystem.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\StatusEffectSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\Systems\\StatusEffectSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:52:46.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddStatusEffectGA.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\GameActions\\AddStatusEffectGA.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameActions\\AddStatusEffectGA.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\GameActions\\AddStatusEffectGA.cs",
+              "RelativeToolTip": "Assets\\Script\\GameActions\\AddStatusEffectGA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:50:14.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CombatantView.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Views\\CombatantView.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Views\\CombatantView.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Views\\CombatantView.cs",
+              "RelativeToolTip": "Assets\\Script\\Views\\CombatantView.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwCsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:37:25.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DamageSystem.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\DamageSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Systems\\DamageSystem.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\DamageSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\Systems\\DamageSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:47:07.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatusEffectsUI.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\UI\\StatusEffectsUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\StatusEffectsUI.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\UI\\StatusEffectsUI.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\StatusEffectsUI.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:02:56.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatusEffectUI.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\UI\\StatusEffectUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\StatusEffectUI.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\UI\\StatusEffectUI.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\StatusEffectUI.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:02:14.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayCardGA.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\GameActions\\PlayCardGA.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameActions\\PlayCardGA.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\GameActions\\PlayCardGA.cs",
+              "RelativeToolTip": "Assets\\Script\\GameActions\\PlayCardGA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T08:51:57.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PerkSystem.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\PerkSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Systems\\PerkSystem.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\PerkSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\Systems\\PerkSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:19:36.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PerkData.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Data\\PerkData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Data\\PerkData.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Data\\PerkData.cs",
+              "RelativeToolTip": "Assets\\Script\\Data\\PerkData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:22:08.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PerkUI.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\UI\\PerkUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\PerkUI.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\UI\\PerkUI.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\PerkUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:40:38.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PerksUI.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\UI\\PerksUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\PerksUI.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\UI\\PerksUI.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\PerksUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T12:40:44.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RefillManaGA.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\GameActions\\RefillManaGA.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameActions\\RefillManaGA.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\GameActions\\RefillManaGA.cs",
+              "RelativeToolTip": "Assets\\Script\\GameActions\\RefillManaGA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:01:45.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SpendManaGA.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\GameActions\\SpendManaGA.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameActions\\SpendManaGA.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\GameActions\\SpendManaGA.cs",
+              "RelativeToolTip": "Assets\\Script\\GameActions\\SpendManaGA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:03:16.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TargetMode.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Models\\TargetMode.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Models\\TargetMode.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Models\\TargetMode.cs",
+              "RelativeToolTip": "Assets\\Script\\Models\\TargetMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:37:55.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Perk.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Models\\Perk.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Models\\Perk.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Models\\Perk.cs",
+              "RelativeToolTip": "Assets\\Script\\Models\\Perk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:52:15.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StatusEffectType.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Enums\\StatusEffectType.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enums\\StatusEffectType.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Enums\\StatusEffectType.cs",
+              "RelativeToolTip": "Assets\\Script\\Enums\\StatusEffectType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T13:01:45.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RandomEnemyTM.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\TargetModes\\RandomEnemyTM.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TargetModes\\RandomEnemyTM.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\TargetModes\\RandomEnemyTM.cs",
+              "RelativeToolTip": "Assets\\Script\\TargetModes\\RandomEnemyTM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:41:49.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MatchSetupSystem.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\MatchSetupSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Systems\\MatchSetupSystem.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\MatchSetupSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\Systems\\MatchSetupSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:06:54.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PerkCondition.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Models\\PerkCondition.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Models\\PerkCondition.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Models\\PerkCondition.cs",
+              "RelativeToolTip": "Assets\\Script\\Models\\PerkCondition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:23:48.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PerformEffectGA.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\GameActions\\PerformEffectGA.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameActions\\PerformEffectGA.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\GameActions\\PerformEffectGA.cs",
+              "RelativeToolTip": "Assets\\Script\\GameActions\\PerformEffectGA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T12:09:02.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OnEnemyAttackCondition.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\PerkCondition\\OnEnemyAttackCondition.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PerkCondition\\OnEnemyAttackCondition.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\PerkCondition\\OnEnemyAttackCondition.cs",
+              "RelativeToolTip": "Assets\\Script\\PerkCondition\\OnEnemyAttackCondition.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:47:32.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NoTM.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\TargetModes\\NoTM.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TargetModes\\NoTM.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\TargetModes\\NoTM.cs",
+              "RelativeToolTip": "Assets\\Script\\TargetModes\\NoTM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:45:45.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MouseUtil.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\General\\Util\\MouseUtil.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\General\\Util\\MouseUtil.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\General\\Util\\MouseUtil.cs",
+              "RelativeToolTip": "Assets\\Script\\General\\Util\\MouseUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T09:08:40.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ManualTargetSystem.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\ManualTargetSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Systems\\ManualTargetSystem.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\ManualTargetSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\Systems\\ManualTargetSystem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T08:31:03.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManaSystem.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\ManaSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Systems\\ManaSystem.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\ManaSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\Systems\\ManaSystem.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:05:08.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "KillEnemyGA.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\GameActions\\KillEnemyGA.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameActions\\KillEnemyGA.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\GameActions\\KillEnemyGA.cs",
+              "RelativeToolTip": "Assets\\Script\\GameActions\\KillEnemyGA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:10:52.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Interactions.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\Interactions.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Systems\\Interactions.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\Interactions.cs",
+              "RelativeToolTip": "Assets\\Script\\Systems\\Interactions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:58:23.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IHaveCaster.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Interfaces\\IHaveCaster.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Interfaces\\IHaveCaster.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Interfaces\\IHaveCaster.cs",
+              "RelativeToolTip": "Assets\\Script\\Interfaces\\IHaveCaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:58:53.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HeroView.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Views\\HeroView.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Views\\HeroView.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Views\\HeroView.cs",
+              "RelativeToolTip": "Assets\\Script\\Views\\HeroView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:44:31.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HeroSystem.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\HeroSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Systems\\HeroSystem.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\HeroSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\Systems\\HeroSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:04:39.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HeroData.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Data\\HeroData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Data\\HeroData.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Data\\HeroData.cs",
+              "RelativeToolTip": "Assets\\Script\\Data\\HeroData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:55:57.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EnemyViewCreator.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Creators\\EnemyViewCreator.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Creators\\EnemyViewCreator.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Creators\\EnemyViewCreator.cs",
+              "RelativeToolTip": "Assets\\Script\\Creators\\EnemyViewCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:18:40.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EnemyView.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Views\\EnemyView.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Views\\EnemyView.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Views\\EnemyView.cs",
+              "RelativeToolTip": "Assets\\Script\\Views\\EnemyView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:41:08.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EnemySystem.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\EnemySystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Systems\\EnemySystem.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\EnemySystem.cs",
+              "RelativeToolTip": "Assets\\Script\\Systems\\EnemySystem.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC0AAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:22:58.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EnemyData.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Data\\EnemyData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Data\\EnemyData.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Data\\EnemyData.cs",
+              "RelativeToolTip": "Assets\\Script\\Data\\EnemyData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:52:55.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EnemyBoardView.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Views\\EnemyBoardView.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Views\\EnemyBoardView.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Views\\EnemyBoardView.cs",
+              "RelativeToolTip": "Assets\\Script\\Views\\EnemyBoardView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:14:28.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EffectSystem.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\EffectSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Systems\\EffectSystem.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\EffectSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\Systems\\EffectSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T12:13:07.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Effect.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Models\\Effect.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Models\\Effect.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Models\\Effect.cs",
+              "RelativeToolTip": "Assets\\Script\\Models\\Effect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T11:42:21.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DrawCardEffect.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Effects\\DrawCardEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Effects\\DrawCardEffect.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Effects\\DrawCardEffect.cs",
+              "RelativeToolTip": "Assets\\Script\\Effects\\DrawCardEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T12:00:41.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DealDamageGA.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\GameActions\\DealDamageGA.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameActions\\DealDamageGA.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\GameActions\\DealDamageGA.cs",
+              "RelativeToolTip": "Assets\\Script\\GameActions\\DealDamageGA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:41:46.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DealDamageEffect.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Effects\\DealDamageEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Effects\\DealDamageEffect.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Effects\\DealDamageEffect.cs",
+              "RelativeToolTip": "Assets\\Script\\Effects\\DealDamageEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:18:45.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CardViewCreator.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Creators\\CardViewCreator.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Creators\\CardViewCreator.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Creators\\CardViewCreator.cs",
+              "RelativeToolTip": "Assets\\Script\\Creators\\CardViewCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:17:08.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CardView.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Views\\CardView.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Views\\CardView.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Views\\CardView.cs",
+              "RelativeToolTip": "Assets\\Script\\Views\\CardView.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwEkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:56:29.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CardSystem.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\CardSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Systems\\CardSystem.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Systems\\CardSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\Systems\\CardSystem.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowFEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T03:45:21.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CardData.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Data\\CardData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Data\\CardData.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Data\\CardData.cs",
+              "RelativeToolTip": "Assets\\Script\\Data\\CardData.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T11:43:53.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Models\\Card.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Models\\Card.cs",
+              "RelativeToolTip": "Assets\\Script\\Models\\Card.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T12:06:36.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AttackHeroGA.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\GameActions\\AttackHeroGA.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameActions\\AttackHeroGA.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\GameActions\\AttackHeroGA.cs",
+              "RelativeToolTip": "Assets\\Script\\GameActions\\AttackHeroGA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:35:15.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ArrowView.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Views\\ArrowView.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Views\\ArrowView.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Views\\ArrowView.cs",
+              "RelativeToolTip": "Assets\\Script\\Views\\ArrowView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:21:16.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AllEnemiesTM.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\TargetModes\\AllEnemiesTM.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TargetModes\\AllEnemiesTM.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\TargetModes\\AllEnemiesTM.cs",
+              "RelativeToolTip": "Assets\\Script\\TargetModes\\AllEnemiesTM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:41:36.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AutoTagetEffect.cs",
+              "DocumentMoniker": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Models\\AutoTagetEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Models\\AutoTagetEffect.cs",
+              "ToolTip": "D:\\code\\unity\\\u56DE\u5408\u5361\u724C\u5BF9\u6218\\Assets\\Script\\Models\\AutoTagetEffect.cs",
+              "RelativeToolTip": "Assets\\Script\\Models\\AutoTagetEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T03:48:48.009Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
