@@ -1,0 +1,18 @@
+# Unity核心忽略文件（保留.meta文件，否则项目打开报错）
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# 可选：忽略编辑器配置文件
+.vs/
+.vscode/
+*.sln
+*.csproj
+.idea/
+
+# 强制保留.meta文件（关键！不可删除）
+!*.meta
